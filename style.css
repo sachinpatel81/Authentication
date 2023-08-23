@@ -1,0 +1,60 @@
+.about{
+    text-align: center;
+    margin-top: 250px;
+}
+.cart1{
+    margin-left: 70px;
+}
+.cart2{
+    margin-left: 80px;
+}
+.cart3{
+    margin-left: 80px;
+}
+.cart4{
+    margin-left: 80px;
+}
+.link{
+    
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.footer{
+    background-color: rgb(18, 57, 63);
+    height: 500px;
+    margin-top: 50px;
+
+}
+.mm{
+    margin-top: 100px;
+    
+}
+.i2{
+    margin-left: 8px;
+
+}
+.i3{
+    margin-left: 8px;
+}
+.i4{
+    margin-left: 8px;
+}
+body{
+    background-color: rgb(151, 221, 223);
+}
+a{
+
+    color: aliceblue;
+}
+.bb{
+    height: 5%;
+    
+}
+form{
+   
+    height: 550px;
+    margin-bottom:px;
+    
+}
